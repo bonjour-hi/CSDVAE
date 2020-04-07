@@ -1,5 +1,5 @@
 # CSDVAE
-Using Collaborative Stacked Denoising Variational Autoencoders to implement recommendation system tasks
+Using Collaborative Stacked Denoising Variational Autoencoders to implement recommendation system tasks.
 * GPU: GeForce RTX 2080Ti ; Time: test epoch 50 sec; train epoch 7-10min<br>
 
 ### The function is introduced as follows:<br>
