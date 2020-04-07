@@ -8,3 +8,4 @@ Using Collaborative Stacked Denoising Variational Autoencoders to implement reco
 - data_wash.py is used to convert the .csv dataset to the prescribed .txt format, and complete the work of dividing the training set and the test set.
 - DAE.py is used to establish variables, or choose to pretrain.
 - CSDAVE.py is responsible for the main model CSDVAE.
+- utils.py are used for the calculation of the encoder and decoder of the automatic encoder, the calculation of the recall and map of the experimental metric, and the visualization of the results.
